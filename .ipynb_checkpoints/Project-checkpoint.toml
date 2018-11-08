@@ -1,0 +1,10 @@
+name = ""
+uuid = "ae779676-e2f5-11e8-120a-1bf2a74eef2f"
+authors = ["atusy <30277794+atusy@users.noreply.github.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
